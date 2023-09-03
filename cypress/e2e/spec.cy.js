@@ -1,6 +1,6 @@
 /// <reference types="Cypress"/>
 
-
+console.log("Hello World");
 describe('SIT Homepage', () => {
 
   it('Go to the login page and try to sign-in', () => {
